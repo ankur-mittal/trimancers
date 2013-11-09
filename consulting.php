@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Trimancers | Contact Us</title>
+		<title>Trimancers | Consulting</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -25,29 +25,28 @@
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 		<!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
 	</head>
-	<body class="no-sidebar">
+	<body class="right-sidebar">
 
 		<!-- Header Wrapper -->
 			<div id="header-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="12u">
-						
-							<!-- Header -->
+				<!-- Header -->
 								<header id="header">
 									<div class="inner">
 									
 										<!-- Logo -->
-											<h1><a href="#" id="logo">Trimancers</a></h1>
+											<h1><a href="index.php" id="logo">Trimancers</a></h1>
 										
 										<!-- Nav -->
 											<nav id="nav">
 												<ul>
-													<li class="current_page_item"><a href="index.html">Home</a></li>
+													<li class="current_page_item"><a href="index.php">Home</a></li>
 													<li>
 														<span>Services</span>
 														<ul>
-															<li><a href="consulting.html">Consulting</a></li>
+															<li><a href="consulting.php">Consulting</a></li>
 															<li><a href="#">Magna phasellus</a></li>
 															<li>
 																<span>Phasellus consequat</span>
@@ -60,22 +59,15 @@
 															<li><a href="#">xyz</a></li>
 														</ul>
 													</li>
-													<li><a href="about-us.html">About Us</a></li>
+													<li><a href="about-us.php">About Us</a></li>
 													<li><a href="http://trimancers.com/wpdir/">Blogs</a></li>
-													<li><a href="contact-us.html">Contact Us</a></li>
+													<li><a href="contact-us.php">Contact Us</a></li>
 												</ul>
 											</nav>
 									
 									</div>
 								</header>
 
-							<!-- Banner -->
-								<div id="banner">
-									<h2><strong>Trimancers:</strong> A Consulting startup.<br />
-									</h2>
-									<p>Does this statement make you want to click the shiny blue button?</p>
-									<a href="#" class="button big fa fa-check-circle">Yes it does</a>
-								</div>
 
 						</div>
 					</div>
@@ -88,58 +80,81 @@
 					<div class="inner">
 						<div class="container">
 							<div class="row">
-								<div class="12u skel-cell-important">
-									<div id="content">
+								<div class="8u">
+									<div id="content skel-cell-important">
 
 										<!-- Content -->
 									
 											<article>
 												<header class="major">
-													<h2>Contact Us</h2>
+													<h2>Right Sidebar</h2>
+													<span class="byline">Which means the sidebar is on the right</span>
 												</header>
-													
-												<span class="image image-full"><img src="images/ContactUs.png" alt="" /></span>
-												<!-- Form -->
-												<form id="contact-form" action="/" method="post">
-													<h3>Get in touch</h3>
-													<h4>Fill in the form below, and we'll get back to you within 24 hours.</h4>
-													<div>
-														<label>
-															<span>Name: (required)</span>
-															<input placeholder="Please enter your name" type="text" tabindex="1" required autofocus>
-														</label>
-													</div>
-													<div>
-														<label>
-															<span>Email: (required)</span>
-															<input placeholder="Please enter your email address" type="email" tabindex="2" required>
-														</label>
-													</div>
-													<div>
-														<label>
-															<span>Telephone: (required)</span>
-															<input placeholder="Please enter your number" type="tel" tabindex="3" required>
-														</label>
-													</div>
-													<div>
-														<label>
-															<span>Website: (required)</span>
-															<input placeholder="Begin with http://" type="url" tabindex="4" required>
-														</label>
-													</div>
-													<div>
-														<label>
-															<span>Message: (required)</span>
-															<textarea placeholder="Include all the details you can" tabindex="5" required></textarea>
-														</label>
-													</div>
-													<div>
-														<button name="submit" type="submit" id="contact-submit">Send Email</button>
-													</div>
-												</form>
-												<!-- /Form -->
-											<script src="js/contact-us.js"></script>
+												
+												<span class="image image-full"><img src="images/pic08.jpg" alt="" /></span>
+												
+												<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
+												Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 
+												Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi 
+												consequat etiam lorem ipsum dolor sit amet nullam.</p>
+												
+												<h3>More intriguing information</h3>
+												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus 
+												justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis, 
+												ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet 
+												vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor. 
+												Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis 
+												rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien. 
+												Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi. 
+												Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.</p>
+
+												<p>Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim 
+												quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu. 
+												Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna, 
+												fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium. 
+												Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu. 
+												Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.</p>
 											</article>
+								
+									</div>
+								</div>
+								<div class="4u">
+									<div id="sidebar">
+
+										<!-- Sidebar -->
+									
+											<section>
+												<header class="major">
+													<h2>Subheading</h2>
+												</header>
+												<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
+												Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 
+												Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi 
+												consequat etiam.</p>
+												<footer>
+													<a href="#" class="button fa fa-info-circle">Find out more</a>
+												</footer>
+											</section>
+
+											<section>
+												<header class="major">
+													<h2>Subheading</h2>
+												</header>
+												<ul class="style2">
+													<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
+													<li><a href="#">Ornare in hendrerit in lectus</a></li>
+													<li><a href="#">Semper mod quis eget mi dolore</a></li>
+													<li><a href="#">Quam turpis feugiat sit dolor</a></li>
+													<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
+													<li><a href="#">Semper mod quisturpis nisi</a></li>
+													<li><a href="#">Consequat etiam lorem phasellus</a></li>
+													<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
+													<li><a href="#">Semper mod quisturpis nisi</a></li>
+												</ul>
+												<footer>
+													<a href="#" class="button fa fa-arrow-circle-o-right">Do Something</a>
+												</footer>
+											</section>
 								
 									</div>
 								</div>
@@ -230,7 +245,7 @@
 					</div>
 				</div>
 			</div>
-
+	
 		<!-- Footer Wrapper -->
 			<div id="footer-wrapper">
 				<footer id="footer" class="container">
@@ -336,7 +351,6 @@
 					</div>
 				</footer>
 			</div>
-
 
 	</body>
 </html>
