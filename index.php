@@ -89,6 +89,9 @@
 									<div class="12u">
 										<header class="first major">
 											<h2>This is an important heading</h2>
+											<?php 
+											echo '<p>Hello World...</p>'; 
+											?>
 											<span class="byline">And this is where we talk about why we’re <strong>pretty awesome</strong> ...</span>
 										</header>
 									</div>
