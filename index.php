@@ -22,7 +22,22 @@
 		<!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
 	</head>
 	<body class="homepage">
-
+	<!--Experiment Area -->
+		<?php  
+		include('smarty/libs/Smarty.class.php');
+		// create object
+		$smarty = new Smarty;
+		// assign some content. This would typically come from
+		// a database or other source, but we'll use static
+		// values for the purpose of this example.
+		$smarty->assign('name', 'george smith');
+		$smarty->assign('address', '45th & Harris');
+		
+		// display it
+		$smarty->display('index.tpl');
+		?>
+		
+	
 		<!-- Header Wrapper -->
 			<div id="header-wrapper">
 				<div class="container">
